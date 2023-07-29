@@ -1,6 +1,6 @@
 ---
 title: "AN EMPERICAL INVESTIGATION OF CUSTOMER PREFERENCE IN MOBILE SERVICE PROVIDERS IN VOI"
-author: '.......'
+author: 'Masheti'
 date: "1/24/2022"
 output: pdf_document
 ---
